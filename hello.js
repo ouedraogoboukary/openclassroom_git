@@ -1,2 +1,2 @@
-alert("hello")
-alert("hello pour la deuxième fois")
+var message="hello"
+alert(message)
